@@ -80,7 +80,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 <br>
 
-## Instructional Video Link
+## Video Link
 <br>
 <br>
 
