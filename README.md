@@ -78,4 +78,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 <br>
 
-[SVG Logo Generator, How Do You Use It?](https://youtu.be/5CZbPmcF46o)
+[SVG Logo Maker Video Sumbision](https://drive.google.com/file/d/1qwgHF8acllDfVlagEJ0PoCf-nSaI-n-l/view)
