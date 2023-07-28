@@ -1,11 +1,10 @@
 # Object-Oriented Programming Challenge: SVG Logo Maker
 
 <br>
-This is an SVG Logo Maker created for the Monash module 10 challenge! 
+This is an SVG Logo Maker
 <br>
 
 <br>
-This application does not launch in a browser and instead uses a console line interface via Node.js <br>
 <br>
 Dependencies required: <br>
 <br>
@@ -13,8 +12,6 @@ Dependencies required: <br>
 [Node.js](https://www.nodejs.org/en) <br>
 [Inquirer](https://www.npmjs.com/package/inquirer) <br>
 <br>
-
-We also used [Jest](https://www.npmjs.com/package/jest) for testing!<br>
 <br>
 
 Finally, because the main functionality of the project is using ES6 modules for imports and exports and jest is only compatible with common JS 
