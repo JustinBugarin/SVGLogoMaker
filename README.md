@@ -68,7 +68,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 ## Tests Passing
 <br>
 <p align="left">
-  <img src=images/test1.png>
+  <img src=images/test1.PNG>
 </p>
 
 <br>
