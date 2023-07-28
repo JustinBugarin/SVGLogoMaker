@@ -14,7 +14,7 @@ Dependencies required: <br>
 <br>
 <br>
 
-As a user I want to be able to generate simple logo's for my projects
+As a user I want to be able to generate simple logo's for my projects and not having to rely on paying a graphic designer to make one.
 <br>
 
 
